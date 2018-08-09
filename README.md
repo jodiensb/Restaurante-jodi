@@ -1,5 +1,7 @@
 # Restaurante-jodi
 Software para pedidos 
 
+CAMBIO DE COLOR DE LOS BOTONES 
+CAMBI DE TIPO DE LETRA 
 
 DESARROLLADO POR LOS CACHONES 
